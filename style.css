@@ -3,3 +3,9 @@ body{
     margin: 0;
     padding: 10px;
 }
+
+hr{
+    background-color: black;
+    margin: 20px;
+    padding: 0;
+}
