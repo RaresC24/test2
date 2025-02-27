@@ -1,3 +1,2 @@
-alert("Buna seara!")
-
-//ceva modificare
+var a = 10
+//ceva modificare mai noua
